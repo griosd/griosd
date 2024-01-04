@@ -41,14 +41,41 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p> Charla introductoria al problema conocido como Marketing Mix Modeling</strong> - En esta charla se explica su importancia en la industria y la complejidad de su solución. El resto de la charla nos enfocaremos en la solución desarrollada en NoiseGrasp.</strong> - Utilizando PyTorch.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Charla Data Science</h3>
+<div align="center">
+<a href="https://youtu.be/k11_2osID4o?si=A4v8uyglBSbBgaOB" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>En esta charla revisaremos herramientas requeridas para trabajar con datos reales, principalmente sobre programación científica, lenguajes de programación y librerías de alto desempeño.</p>
+</div>
+                                                                                      
+</td>       
+<td width="50%">
+               <br>
+  
 
+<h3 align="center">Charla x</h3>
+<div align="center">
 
+<a href="https://youtu.be/swmbQ3HZEHM?si=BPDfF-y-AxUPfvNc" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p> descripcion .</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
