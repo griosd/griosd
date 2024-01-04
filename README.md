@@ -12,21 +12,42 @@
 
 ## Charlas
 
+
+</td>       
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center"><a href="https://github.com/griosd/CursoPythonDataScience" target="_blank">Curso Data Science en Python</a></h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k11_2osID4o?si=DhN_B0Ogok1tzhfq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                                                                              
-</td>       
+<h3 align="center">Curso Data Science en Python</h3>
+<div align="center">
+<a href="https://github.com/griosd/CursoPythonDataScience" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso Data Science en Python"></a>
+<p>
+<a href="https://github.com/griosd/CursoPythonDataScience" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>
 
 <td width="50%">
-<h3 align="center">Charla Bayesian Machine Learning</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/swmbQ3HZEHM?si=VqbKGsMIFKfqgcAf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                                                                                 
-</td>
-</tr>
-</table>                                                                                 
+               <br>
+  
 
+<h3 align="center">Charla Bayesian Machine Learning</h3>
+<div align="center">
+
+<a href="https://youtu.be/swmbQ3HZEHM?si=BPDfF-y-AxUPfvNc" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
 <br>
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
