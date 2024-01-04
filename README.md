@@ -15,10 +15,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Data Science en Python</h3>
+<h3 align="center"><a href="https://github.com/griosd/CursoPythonDataScience" target="_blank">Curso Data Science en Python</a></h3>
 <div align="center">
-<a href="https://github.com/griosd/CursoPythonDataScience" target="_blank">Curso Data Science en Python</a>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k11_2osID4o?si=DhN_B0Ogok1tzhfq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
                                                                                       
 </td>       
