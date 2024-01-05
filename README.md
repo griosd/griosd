@@ -20,7 +20,7 @@
 <td width="50%">
 <h3 align="center">Curso Data Science en Python</h3>
 <div align="center">
-<a href="https://github.com/griosd/CursoPythonDataScience" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso Data Science en Python"></a>
+<a href="https://github.com/griosd/CursoPythonDataScience" target="_blank"><img src="https://github.com/griosd/griosd/blob/main/Python%20Data%20Science%20Course.png" width="300" alt="Curso Data Science en Python"></a>
 <p>
 <a href="https://github.com/griosd/CursoPythonDataScience" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
