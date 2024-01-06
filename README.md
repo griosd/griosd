@@ -39,6 +39,7 @@
 <a href="https://github.com/griosd/griosd/blob/main/NgWay%20-%20English%20-%20Septiembre%202023.png" target="_blank">
 <img src="https://github.com/griosd/griosd/blob/main/NgWay%20-%20English%20-%20Septiembre%202023.png" width="300" alt="Bayesian Marketing Modeling">
 </a>
+<br>
 <a href="https://youtu.be/swmbQ3HZEHM?si=BPDfF-y-AxUPfvNc" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
