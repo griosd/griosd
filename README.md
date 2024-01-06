@@ -58,6 +58,7 @@
 <a href="https://github.com/griosd/griosd/blob/main/00-DataScience.pdf" target="_blank">
 </a>
 <img src="https://github.com/griosd/griosd/blob/main/Data-Science.png" width="300" alt="Bayesian Marketing Modeling">
+<br>
 <a href="https://youtu.be/k11_2osID4o?si=A4v8uyglBSbBgaOB" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
