@@ -7,7 +7,7 @@
 
 - ⭐ Python lover ⭐ 
 - 🎲 Experto en algoritmos, data science y simulación estocástica 🎲
-- 🌐 Conóceme más en <a href="https://grios.cl">grios.cl</a> y en <a href="[https://grios.cl](https://www.linkedin.com/in/gonzalo-rios-diaz/)">LinkedIn</a>🌐
+- 🌐 Conóceme más en <a href="https://grios.cl">grios.cl</a> y en <a href="https://www.linkedin.com/in/gonzalo-rios-diaz">LinkedIn</a> 🌐
 <br>
 
 ## Charlas y Cursos
@@ -36,8 +36,9 @@
 
 <h3 align="center">Charla Bayesian Marketing Modeling</h3>
 <div align="center">
+<a href="https://github.com/griosd/griosd/blob/main/NgWay%20-%20English%20-%20Septiembre%202023.png" target="_blank">
 <img src="https://github.com/griosd/griosd/blob/main/NgWay%20-%20English%20-%20Septiembre%202023.png" width="300" alt="Bayesian Marketing Modeling">
-
+</a>
 <a href="https://youtu.be/swmbQ3HZEHM?si=BPDfF-y-AxUPfvNc" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
