@@ -7,10 +7,10 @@
 
 - ⭐ Python lover ⭐ 
 - 🎲 Experto en algoritmos, data science y simulación estocástica 🎲
-- 🌐 Conóceme más en grios.cl 🌐
+- 🌐 Conóceme más en <a href="https://grios.cl">grios.cl</a> y en <a href="[https://grios.cl](https://www.linkedin.com/in/gonzalo-rios-diaz/)">LinkedIn</a>🌐
 <br>
 
-## Charlas
+## Charlas y Cursos
 
 
 </td>       
@@ -25,7 +25,7 @@
 <a href="https://github.com/griosd/CursoPythonDataScience" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aprende a programar en Python a través de Jupyter notebooks para conocer el mundo de Data Science y sus librerías tales cono Numpy, Scipy, Pandas, entre muchas otras!</p>
 </div>
                                                                                       
 </td>
@@ -34,8 +34,9 @@
                <br>
   
 
-<h3 align="center">Charla Bayesian Machine Learning</h3>
+<h3 align="center">Charla Bayesian Marketing Modeling</h3>
 <div align="center">
+<img src="https://github.com/griosd/griosd/blob/main/NgWay%20-%20English%20-%20Septiembre%202023.png" width="300" alt="Bayesian Marketing Modeling">
 
 <a href="https://youtu.be/swmbQ3HZEHM?si=BPDfF-y-AxUPfvNc" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
