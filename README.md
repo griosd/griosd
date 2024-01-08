@@ -10,7 +10,7 @@
 - 🌐 Conóceme más en <a href="https://grios.cl">grios.cl</a> y en <a href="https://www.linkedin.com/in/gonzalo-rios-diaz">LinkedIn</a> 🌐
 <br>
 
-## Charlas y Cursos
+## Material Académico 
 
 
 </td>       
@@ -37,7 +37,7 @@
 <h3 align="center">Charla Bayesian Marketing Modeling</h3>
 <div align="center">
 <a href="https://github.com/griosd/griosd/blob/main/NgWay%20-%20English%20-%20Septiembre%202023.png" target="_blank">
-<img src="https://github.com/griosd/griosd/blob/main/NgWay%20-%20English%20-%20Septiembre%202023.png" width="300" alt="Bayesian Marketing Modeling">
+<img src="https://github.com/griosd/griosd/blob/main/NgWay%20-%20English%20-%20Septiembre%202023.png" width="400" alt="Bayesian Marketing Modeling">
 </a>
 <br>
 <a href="https://youtu.be/swmbQ3HZEHM?si=BPDfF-y-AxUPfvNc" target="_blank">
@@ -57,7 +57,7 @@
 <div align="center">
 <a href="https://github.com/griosd/griosd/blob/main/00-DataScience.pdf" target="_blank">
 </a>
-<img src="https://github.com/griosd/griosd/blob/main/Data-Science.png" width="300" alt="Bayesian Marketing Modeling">
+<img src="https://github.com/griosd/griosd/blob/main/Data-Science.png" width="400" alt="Bayesian Marketing Modeling">
 <br>
 <a href="https://youtu.be/k11_2osID4o?si=A4v8uyglBSbBgaOB" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
@@ -71,18 +71,19 @@
                <br>
   
 
-<h3 align="center">Charla x</h3>
+<h3 align="center">Libro Procesos Estocasticos </h3>
 <div align="center">
+<a href="https://github.com/griosd/LibroProcesosEstocasticos" target="_blank"><img src="https://github.com/griosd/griosd/blob/main/foto_libro.png" width="500" alt="Libro Procesos Estocasticos"></a>
+<p>
+<a href="https://github.com/griosd/LibroProcesosEstocasticos" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 
-<a href="https://youtu.be/swmbQ3HZEHM?si=BPDfF-y-AxUPfvNc" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p> descripcion .</p>
+<p>En este exhaustivo tratado teórico, 'Procesos Estocásticos, Gaussianos y No Gaussianos Aplicados al Aprendizaje de Máquinas y al Marketing', el lector se sumerge en el fascinante mundo de la teoría de procesos estocásticos y su aplicación directa en dos campos fundamentales: el aprendizaje de máquinas y el marketing.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
