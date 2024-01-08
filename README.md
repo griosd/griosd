@@ -85,7 +85,7 @@
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
-![griosd's Stats]()
+
 <p align="center">
 <a href="https://github.com/griosd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=griosd&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
