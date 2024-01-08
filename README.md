@@ -75,9 +75,11 @@
 <div align="center">
 <a href="https://github.com/griosd/LibroProcesosEstocasticos" target="_blank"><img src="https://github.com/griosd/griosd/blob/main/foto_libro.png" width="500" alt="Libro Procesos Estocasticos"></a>
 <p>
-<a href="https://github.com/griosd/LibroProcesosEstocasticos" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-
+<a href="https://github.com/griosd/LibroProcesosEstocasticos/tree/main/charlas" target="_blank">
+<img src="https://img.shields.io/badge/Charlas-ff9?style=for-the-badge">
+  
+<a href="https://github.com/griosd/LibroProcesosEstocasticos/tree/main/charlas" target="_blank">
+<img src="https://img.shields.io/badge/Libro PDF-8A2BE2?style=for-the-badge">
 <p>En este exhaustivo tratado teórico, 'Procesos Estocásticos, Gaussianos y No Gaussianos Aplicados al Aprendizaje de Máquinas y al Marketing', el lector se sumerge en el fascinante mundo de la teoría de procesos estocásticos y su aplicación directa en dos campos fundamentales: el aprendizaje de máquinas y el marketing.</p>
 </div>                                                             
 </table>                                                                                 
