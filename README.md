@@ -5,8 +5,9 @@
 
 ## Sobre mi
 
-- ⭐ Python lover ⭐ 
-- 🎲 Experto en algoritmos, data science y simulación estocástica 🎲
+- 👨‍💻 Python lover 👨‍💻 
+- 🤖 Experto en algoritmos estocásticos, data science y machine learning 🤖
+- 🎲 Clérigo en marketing bayesiano 🎲
 - 🌐 Conóceme más en <a href="https://grios.cl">grios.cl</a> y en <a href="https://www.linkedin.com/in/gonzalo-rios-diaz">LinkedIn</a> 🌐
 <br>
 
