@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://grios.cl">Gonzalo Rios</a> 👋</h1>
 </div>
-<!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
+<img src="https://github.com/griosd/griosd/blob/main/grios.jpg">
 
 ## Sobre mi
 
