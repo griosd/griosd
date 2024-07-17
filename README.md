@@ -14,7 +14,7 @@
 - 🤖 Experto en algoritmos estocásticos, data science y machine learning 🤖
 - 🎲 Clérigo en marketing bayesiano 🎲
 - 🌐 Conóceme más en <a href="https://grios.cl">grios.cl</a> y en <a href="https://www.linkedin.com/in/gonzalo-rios-diaz">LinkedIn</a> 🌐
-- 💼 Conoce más de Niuro en <a href="https://niuro.io">niuro.io</a> y en <a href="https://www.linkedin.com/in/gonzalo-rios-diaz">LinkedIn</> 💼
+- 💼 Conoce más de Niuro en <a href="https://niuro.io">niuro.io</a> y en <a href="https://www.linkedin.com/in/gonzalo-rios-diaz">LinkedIn</a> 💼
 <br>
 
 ## Material Académico 
