@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://grios.cl">Gonzalo Rios</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://grios.cl">Gonzalo Rios</a> y trabajo en <a href="https://niuro.io">Niuro</a>👋</h1>
 </div>
 <img src="https://github.com/griosd/griosd/blob/main/grios.jpg">
 
@@ -14,6 +14,7 @@
 - 🤖 Experto en algoritmos estocásticos, data science y machine learning 🤖
 - 🎲 Clérigo en marketing bayesiano 🎲
 - 🌐 Conóceme más en <a href="https://grios.cl">grios.cl</a> y en <a href="https://www.linkedin.com/in/gonzalo-rios-diaz">LinkedIn</a> 🌐
+- 💼 Conoce más de Niuro en <a href="https://niuro.io">niuro.io</a> y en <a href="https://www.linkedin.com/in/gonzalo-rios-diaz">LinkedIn</> 💼
 <br>
 
 ## Material Académico 
